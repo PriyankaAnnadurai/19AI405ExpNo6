@@ -100,7 +100,8 @@ def minimax(game)
         @choice = moves[min_score_index]
         return scores[min_score_index]
     end
-end
+    
+
 ## Program:
 
 ```py
